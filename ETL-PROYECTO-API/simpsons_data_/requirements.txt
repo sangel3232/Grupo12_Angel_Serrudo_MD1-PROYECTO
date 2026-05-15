@@ -1,0 +1,10 @@
+
+pandas
+requests
+sqlalchemy
+psycopg2-binary
+streamlit
+apache-airflow
+scikit-learn
+jupyter
+matplotlib
